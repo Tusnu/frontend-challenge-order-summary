@@ -13,7 +13,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Overview
 
-A Frontend Mentor project to replicate a given design of a QR code graphic with only CSS and HTML.
+A Frontend Mentor project to replicate a given design with only CSS and HTML.
 
 ### Screenshot
 
